@@ -1,0 +1,9 @@
+﻿Profile,Metric,First Date,First Value,Latest Date,Latest Value,Absolute Change,Percent Change
+Vitamin_Nutritional,Vitamin D,2022-04-02 00:00:00,17.4,2025-04-28 00:00:00,56.6,39.2,225.3
+Vitamin_Nutritional,Vitamin B12,2018-05-25 00:00:00,542,2025-09-23 00:00:00,335,-207,-38.2
+Vitamin_Nutritional,Folate,2018-05-25 00:00:00,4.1,2025-09-23 00:00:00,5.1,1,24.4
+Vitamin_Nutritional,Magnesium,2019-06-24 00:00:00,2.4,2023-01-30 00:00:00,2.35,-0.05,-2.1
+Vitamin_Nutritional,Calcium,2018-05-25 00:00:00,9.85,2023-01-30 00:00:00,10.1,0.25,2.5
+Vitamin_Nutritional,Iron,2018-05-25 00:00:00,81,2026-03-19 00:00:00,114,33,40.7
+Vitamin_Nutritional,Ferritin,2018-05-25 00:00:00,531.8,2025-09-23 00:00:00,245.3,-286.5,-53.9
+Vitamin_Nutritional,PTH,2026-03-19 00:00:00,52.2,2026-03-19 00:00:00,52.2,0,0

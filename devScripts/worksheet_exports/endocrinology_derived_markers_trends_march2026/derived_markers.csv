@@ -1,0 +1,22 @@
+﻿Updated Endocrinology Profile - Derived Markers,,,,,,,,,,,,,,,,,,,,
+Formulas calculate metabolic and thyroid-derived markers from the raw endocrine data,,,,,,,,,,,,,,,,,,,,
+Exam Date,TSH,Free T4,Fasting Glucose,Glucose,HbA1c,Insulin,Vitamin D,Vitamin B12,Folate,Cortisol,Cortisol 24h,CRP,ESR,Glucose for calc,HOMA-IR,QUICKI,Estimated Avg Glucose (eAG),TSH/Free T4 Ratio,Vitamin D Status,HOMA-IR Interpretation
+2017-12-21 00:00:00,2.49,0,77,0,0,0,0,0,0,0,0,0,0,77,0,,-46.7,,Deficient,Very sensitive
+2018-05-25 00:00:00,0,0,72,0,0,0,0,542,4.1,0,0,0,0,72,0,,-46.7,,Deficient,Very sensitive
+2019-06-24 00:00:00,0,0,79,0,0,0,0,375,0,0,0,0,0,79,0,,-46.7,,Deficient,Very sensitive
+2021-04-02 00:00:00,1.765,0,85,0,0,0,0,0,0,0,0,0,0,85,0,,-46.7,,Deficient,Very sensitive
+2022-04-02 00:00:00,1.05,0,0,0,0,0,17.4,579,5.08,0,0,0.91,0,0,0,,-46.7,,Deficient,Very sensitive
+2022-11-04 00:00:00,0,0,74.1,0,0,0,0,0,0,0,0,0,0,74.1,0,,-46.7,,Deficient,Very sensitive
+2023-01-30 00:00:00,0,0,80,0,0,0,0,0,0,0,0,0,0,80,0,,-46.7,,Deficient,Very sensitive
+2023-04-11 00:00:00,0,0,82,0,0,0,0,0,0,0,0,0,0,82,0,,-46.7,,Deficient,Very sensitive
+2023-07-24 00:00:00,0,0,77,0,0,0,43.9,0,0,0,0,0.07,0,77,0,,-46.7,,Adequate,Very sensitive
+2023-09-18 00:00:00,1.56,0,83,0,0,0,0,0,0,0,0,3.26,3,83,0,,-46.7,,Deficient,Very sensitive
+2023-10-05 00:00:00,0,0,82,0,0,0,0,424,15.1,0,0,0,0,82,0,,-46.7,,Deficient,Very sensitive
+2023-12-04 00:00:00,1.28,0,82,0,0,0,0,0,0,0,0,1.29,2,82,0,,-46.7,,Deficient,Very sensitive
+2024-04-01 00:00:00,2.4,13,84,0,5.2,11.08,32.7,403,14.8,76.1,190.3,1.31,2,84,2.298074074074074,0.3368342712548667,102.54,0.1846153846153846,Adequate,Borderline
+2024-06-25 00:00:00,0,0,70,0,0,0,0,0,0,0,0,0.58,2,70,0,,-46.7,,Deficient,Very sensitive
+2024-12-23 00:00:00,0,0,84,0,0,0,0,486,6.3,0,0,2.09,0,84,0,,-46.7,,Deficient,Very sensitive
+2025-04-28 00:00:00,0,0,79,0,0,0,56.6,550,0,0,0,2.63,3,79,0,,-46.7,,High-normal,Very sensitive
+2025-07-10 00:00:00,0,0,87,0,0,0,0,0,0,0,0,0.72,5,87,0,,-46.7,,Deficient,Very sensitive
+2025-09-23 00:00:00,1.54,16.3,80,0,0,0,0,335,5.1,0,0,0.2,3,80,0,,-46.7,0.09447852760736196,Deficient,Very sensitive
+2026-03-19 00:00:00,2.01,0,0,85,0,0,0,0,0,0,0,0.25,5,0,0,,-46.7,,Deficient,Very sensitive

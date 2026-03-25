@@ -1,0 +1,58 @@
+﻿Profile,Metric,Latest Date,Latest Value,Absolute Change vs First,Percent Change vs First
+CBC_Hematology,WBC,2026-03-19 00:00:00,7.2,-1.75,-19.6
+CBC_Hematology,Hemoglobin,2026-03-19 00:00:00,12.7,0.8,6.7
+CBC_Hematology,Hematocrit,2026-03-19 00:00:00,39.6,2.1,5.6
+CBC_Hematology,MCV,2026-03-19 00:00:00,66.1,-1.2,-1.8
+CBC_Hematology,MCH,2026-03-19 00:00:00,21.2,-0.1,-0.5
+CBC_Hematology,RDW,2026-03-19 00:00:00,15.4,-1.7,-9.9
+CBC_Hematology,Platelets,2026-03-19 00:00:00,291,-52,-15.2
+CBC_Hematology,NLR,2026-03-19 00:00:00,3.35,1.6227,93.9
+CBC_Hematology,Mentzer Index,2026-03-19 00:00:00,11.0351,-1.0259,-8.5
+CBC_Hematology,ANC Surrogate,2026-03-19 00:00:00,4.824,-0.2775,-5.4
+CBC_Hematology,ALC Surrogate,2026-03-19 00:00:00,1.44,-1.5135,-51.2
+Iron_Profile,Iron,2026-03-19 00:00:00,114,33,40.7
+Iron_Profile,Ferritin,2025-09-23 00:00:00,245.3,-286.5,-53.9
+Iron_Profile,Hemoglobin,2026-03-19 00:00:00,12.7,0.8,6.7
+Iron_Profile,MCV,2026-03-19 00:00:00,66.1,-1.2,-1.8
+Iron_Profile,MCH,2026-03-19 00:00:00,21.2,-0.1,-0.5
+Iron_Profile,Mentzer Index,2026-03-19 00:00:00,11.0351,-1.0259,-8.5
+Iron_Profile,Ferritin/Iron Ratio,2025-09-23 00:00:00,1.9624,-4.603,-70.1
+Liver_Profile,AST,2026-03-19 00:00:00,16.8,-25.2,-60
+Liver_Profile,ALT,2026-03-19 00:00:00,16.9,-48.1,-74
+Liver_Profile,GGT,2026-03-19 00:00:00,23.7,-61.3,-72.1
+Liver_Profile,ALP,2026-03-19 00:00:00,81,-3,-3.6
+Liver_Profile,Total Bilirubin,2026-03-19 00:00:00,3.92,0.9,29.8
+Liver_Profile,Direct Bilirubin,2026-03-19 00:00:00,0.47,0.01,2.2
+Liver_Profile,AST/ALT Ratio,2026-03-19 00:00:00,0.9941,0.3479,53.8
+Liver_Profile,Indirect Bilirubin,2026-03-19 00:00:00,3.45,1.9,122.6
+Inflammation_Immune,CRP,2026-03-19 00:00:00,0.25,-0.66,-72.5
+Inflammation_Immune,ESR,2026-03-19 00:00:00,5,2,66.7
+Inflammation_Immune,NLR,2026-03-19 00:00:00,3.35,1.6227,93.9
+Inflammation_Immune,SII Surrogate,2026-03-19 00:00:00,974.85,382.3955,64.5
+Inflammation_Immune,Ferritin,2025-09-23 00:00:00,245.3,-286.5,-53.9
+Inflammation_Immune,IgA,2023-04-22 00:00:00,166.3,0,0
+Inflammation_Immune,IgG,2023-04-22 00:00:00,989,0,0
+Inflammation_Immune,IgM,2023-04-22 00:00:00,150.5,0,0
+Vitamin_Nutritional,Vitamin D,2025-04-28 00:00:00,56.6,39.2,225.3
+Vitamin_Nutritional,Vitamin B12,2025-09-23 00:00:00,335,-207,-38.2
+Vitamin_Nutritional,Folate,2025-09-23 00:00:00,5.1,1,24.4
+Vitamin_Nutritional,Magnesium,2023-01-30 00:00:00,2.35,-0.05,-2.1
+Vitamin_Nutritional,Calcium,2023-01-30 00:00:00,10.1,0.25,2.5
+Vitamin_Nutritional,Iron,2026-03-19 00:00:00,114,33,40.7
+Vitamin_Nutritional,Ferritin,2025-09-23 00:00:00,245.3,-286.5,-53.9
+Vitamin_Nutritional,PTH,2026-03-19 00:00:00,52.2,0,0
+Liver_Monitoring,ALT,2026-03-19 00:00:00,16.9,-48.1,-74
+Liver_Monitoring,AST,2026-03-19 00:00:00,16.8,-25.2,-60
+Liver_Monitoring,GGT,2026-03-19 00:00:00,23.7,-61.3,-72.1
+Liver_Monitoring,ALP,2026-03-19 00:00:00,81,-3,-3.6
+Liver_Monitoring,Total Bilirubin,2026-03-19 00:00:00,3.92,0.9,29.8
+Liver_Monitoring,Direct Bilirubin,2026-03-19 00:00:00,0.47,0.01,2.2
+Liver_Monitoring,Albumin,2024-12-23 00:00:00,4.6,0.1,2.2
+Liver_Monitoring,Liver Burden Sum,2026-03-19 00:00:00,57.4,-134.6,-70.1
+CBC_Treatment_Monitoring,WBC,2026-03-19 00:00:00,7.2,-1.75,-19.6
+CBC_Treatment_Monitoring,ANC Surrogate,2026-03-19 00:00:00,4.824,-0.2775,-5.4
+CBC_Treatment_Monitoring,ALC Surrogate,2026-03-19 00:00:00,1.44,-1.5135,-51.2
+CBC_Treatment_Monitoring,Hemoglobin,2026-03-19 00:00:00,12.7,0.8,6.7
+CBC_Treatment_Monitoring,Platelets,2026-03-19 00:00:00,291,-52,-15.2
+CBC_Treatment_Monitoring,MCV,2026-03-19 00:00:00,66.1,-1.2,-1.8
+CBC_Treatment_Monitoring,RDW,2026-03-19 00:00:00,15.4,-1.7,-9.9

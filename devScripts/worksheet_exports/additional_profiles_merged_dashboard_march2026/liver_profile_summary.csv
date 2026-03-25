@@ -1,0 +1,9 @@
+﻿Profile,Metric,First Date,First Value,Latest Date,Latest Value,Absolute Change,Percent Change
+Liver_Profile,AST,2017-12-21 00:00:00,42,2026-03-19 00:00:00,16.8,-25.2,-60
+Liver_Profile,ALT,2017-12-21 00:00:00,65,2026-03-19 00:00:00,16.9,-48.1,-74
+Liver_Profile,GGT,2017-12-21 00:00:00,85,2026-03-19 00:00:00,23.7,-61.3,-72.1
+Liver_Profile,ALP,2018-05-25 00:00:00,84,2026-03-19 00:00:00,81,-3,-3.6
+Liver_Profile,Total Bilirubin,2023-07-24 00:00:00,3.02,2026-03-19 00:00:00,3.92,0.9,29.8
+Liver_Profile,Direct Bilirubin,2023-10-05 00:00:00,0.46,2026-03-19 00:00:00,0.47,0.01,2.2
+Liver_Profile,AST/ALT Ratio,2017-12-21 00:00:00,0.6462,2026-03-19 00:00:00,0.9941,0.3479,53.8
+Liver_Profile,Indirect Bilirubin,2023-10-05 00:00:00,1.55,2026-03-19 00:00:00,3.45,1.9,122.6

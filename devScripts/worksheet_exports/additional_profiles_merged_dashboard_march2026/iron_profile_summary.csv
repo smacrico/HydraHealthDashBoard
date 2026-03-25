@@ -1,0 +1,8 @@
+﻿Profile,Metric,First Date,First Value,Latest Date,Latest Value,Absolute Change,Percent Change
+Iron_Profile,Iron,2018-05-25 00:00:00,81,2026-03-19 00:00:00,114,33,40.7
+Iron_Profile,Ferritin,2018-05-25 00:00:00,531.8,2025-09-23 00:00:00,245.3,-286.5,-53.9
+Iron_Profile,Hemoglobin,2017-12-21 00:00:00,11.9,2026-03-19 00:00:00,12.7,0.8,6.7
+Iron_Profile,MCV,2017-12-21 00:00:00,67.3,2026-03-19 00:00:00,66.1,-1.2,-1.8
+Iron_Profile,MCH,2017-12-21 00:00:00,21.3,2026-03-19 00:00:00,21.2,-0.1,-0.5
+Iron_Profile,Mentzer Index,2017-12-21 00:00:00,12.0609,2026-03-19 00:00:00,11.0351,-1.0259,-8.5
+Iron_Profile,Ferritin/Iron Ratio,2018-05-25 00:00:00,6.5654,2025-09-23 00:00:00,1.9624,-4.603,-70.1

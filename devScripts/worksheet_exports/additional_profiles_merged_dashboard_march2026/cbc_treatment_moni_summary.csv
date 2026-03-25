@@ -1,0 +1,8 @@
+﻿Profile,Metric,First Date,First Value,Latest Date,Latest Value,Absolute Change,Percent Change
+CBC_Treatment_Monitoring,WBC,2017-12-21 00:00:00,8.95,2026-03-19 00:00:00,7.2,-1.75,-19.6
+CBC_Treatment_Monitoring,ANC Surrogate,2017-12-21 00:00:00,5.1015,2026-03-19 00:00:00,4.824,-0.2775,-5.4
+CBC_Treatment_Monitoring,ALC Surrogate,2017-12-21 00:00:00,2.9535,2026-03-19 00:00:00,1.44,-1.5135,-51.2
+CBC_Treatment_Monitoring,Hemoglobin,2017-12-21 00:00:00,11.9,2026-03-19 00:00:00,12.7,0.8,6.7
+CBC_Treatment_Monitoring,Platelets,2017-12-21 00:00:00,343,2026-03-19 00:00:00,291,-52,-15.2
+CBC_Treatment_Monitoring,MCV,2017-12-21 00:00:00,67.3,2026-03-19 00:00:00,66.1,-1.2,-1.8
+CBC_Treatment_Monitoring,RDW,2017-12-21 00:00:00,17.1,2026-03-19 00:00:00,15.4,-1.7,-9.9

@@ -1,0 +1,353 @@
+[
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Dashboard_Summary",
+    "table_name": "dashboard_summary",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/dashboard_summary.csv",
+    "rows": 58,
+    "cols": 6
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Charts_Index",
+    "table_name": "charts_index",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/charts_index.csv",
+    "rows": 42,
+    "cols": 3
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "CBC_Hematology_Raw",
+    "table_name": "cbc_hematology_raw",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/cbc_hematology_raw.csv",
+    "rows": 20,
+    "cols": 39
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "CBC_Hematology_Derived",
+    "table_name": "cbc_hematology_derived",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/cbc_hematology_derived.csv",
+    "rows": 20,
+    "cols": 45
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "CBC_Hematology_Summary",
+    "table_name": "cbc_hematology_summary",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/cbc_hematology_summary.csv",
+    "rows": 12,
+    "cols": 8
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "CBC_Hematology_Changes",
+    "table_name": "cbc_hematology_changes",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/cbc_hematology_changes.csv",
+    "rows": 53,
+    "cols": 8
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Iron_Profile_Raw",
+    "table_name": "iron_profile_raw",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/iron_profile_raw.csv",
+    "rows": 21,
+    "cols": 15
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Iron_Profile_Derived",
+    "table_name": "iron_profile_derived",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/iron_profile_derived.csv",
+    "rows": 21,
+    "cols": 19
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Iron_Profile_Summary",
+    "table_name": "iron_profile_summary",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/iron_profile_summary.csv",
+    "rows": 8,
+    "cols": 8
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Iron_Profile_Changes",
+    "table_name": "iron_profile_changes",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/iron_profile_changes.csv",
+    "rows": 28,
+    "cols": 8
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Liver_Profile_Raw",
+    "table_name": "liver_profile_raw",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/liver_profile_raw.csv",
+    "rows": 20,
+    "cols": 17
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Liver_Profile_Derived",
+    "table_name": "liver_profile_derived",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/liver_profile_derived.csv",
+    "rows": 20,
+    "cols": 20
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Liver_Profile_Summary",
+    "table_name": "liver_profile_summary",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/liver_profile_summary.csv",
+    "rows": 9,
+    "cols": 8
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Liver_Profile_Changes",
+    "table_name": "liver_profile_changes",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/liver_profile_changes.csv",
+    "rows": 34,
+    "cols": 8
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Inflammation_Immun_Raw",
+    "table_name": "inflammation_immun_raw",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/inflammation_immun_raw.csv",
+    "rows": 22,
+    "cols": 23
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Inflammation_Immun_Derived",
+    "table_name": "inflammation_immun_derived",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/inflammation_immun_derived.csv",
+    "rows": 22,
+    "cols": 28
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Inflammation_Immun_Summary",
+    "table_name": "inflammation_immun_summary",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/inflammation_immun_summary.csv",
+    "rows": 9,
+    "cols": 8
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Inflammation_Immun_Changes",
+    "table_name": "inflammation_immun_changes",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/inflammation_immun_changes.csv",
+    "rows": 58,
+    "cols": 8
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Vitamin_Nutritiona_Raw",
+    "table_name": "vitamin_nutritiona_raw",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/vitamin_nutritiona_raw.csv",
+    "rows": 14,
+    "cols": 19
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Vitamin_Nutritiona_Derived",
+    "table_name": "vitamin_nutritiona_derived",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/vitamin_nutritiona_derived.csv",
+    "rows": 14,
+    "cols": 22
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Vitamin_Nutritiona_Summary",
+    "table_name": "vitamin_nutritiona_summary",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/vitamin_nutritiona_summary.csv",
+    "rows": 9,
+    "cols": 8
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Vitamin_Nutritiona_Changes",
+    "table_name": "vitamin_nutritiona_changes",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/vitamin_nutritiona_changes.csv",
+    "rows": 16,
+    "cols": 8
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Liver_Monitoring_Raw",
+    "table_name": "liver_monitoring_raw",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/liver_monitoring_raw.csv",
+    "rows": 23,
+    "cols": 19
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Liver_Monitoring_Derived",
+    "table_name": "liver_monitoring_derived",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/liver_monitoring_derived.csv",
+    "rows": 23,
+    "cols": 23
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Liver_Monitoring_Summary",
+    "table_name": "liver_monitoring_summary",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/liver_monitoring_summary.csv",
+    "rows": 9,
+    "cols": 8
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Liver_Monitoring_Changes",
+    "table_name": "liver_monitoring_changes",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/liver_monitoring_changes.csv",
+    "rows": 77,
+    "cols": 8
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "CBC_Treatment_Moni_Raw",
+    "table_name": "cbc_treatment_moni_raw",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/cbc_treatment_moni_raw.csv",
+    "rows": 20,
+    "cols": 17
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "CBC_Treatment_Moni_Derived",
+    "table_name": "cbc_treatment_moni_derived",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/cbc_treatment_moni_derived.csv",
+    "rows": 20,
+    "cols": 22
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "CBC_Treatment_Moni_Summary",
+    "table_name": "cbc_treatment_moni_summary",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/cbc_treatment_moni_summary.csv",
+    "rows": 8,
+    "cols": 8
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "CBC_Treatment_Moni_Changes",
+    "table_name": "cbc_treatment_moni_changes",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/cbc_treatment_moni_changes.csv",
+    "rows": 90,
+    "cols": 8
+  },
+  {
+    "workbook": "Additional_Profiles_Merged_Dashboard_March2026.xlsx",
+    "workbook_key": "additional_profiles_merged_dashboard_march2026",
+    "sheet_name": "Clinical_Goals",
+    "table_name": "clinical_goals",
+    "csv_path": "/mnt/data/worksheet_exports/additional_profiles_merged_dashboard_march2026/clinical_goals.csv",
+    "rows": 5,
+    "cols": 2
+  },
+  {
+    "workbook": "Endocrinology_Derived_Markers_Trends_March2026.xlsx",
+    "workbook_key": "endocrinology_derived_markers_trends_march2026",
+    "sheet_name": "Raw_Endocrine_Data",
+    "table_name": "raw_endocrine_data",
+    "csv_path": "/mnt/data/worksheet_exports/endocrinology_derived_markers_trends_march2026/raw_endocrine_data.csv",
+    "rows": 22,
+    "cols": 14
+  },
+  {
+    "workbook": "Endocrinology_Derived_Markers_Trends_March2026.xlsx",
+    "workbook_key": "endocrinology_derived_markers_trends_march2026",
+    "sheet_name": "Derived_Markers",
+    "table_name": "derived_markers",
+    "csv_path": "/mnt/data/worksheet_exports/endocrinology_derived_markers_trends_march2026/derived_markers.csv",
+    "rows": 22,
+    "cols": 21
+  },
+  {
+    "workbook": "Endocrinology_Derived_Markers_Trends_March2026.xlsx",
+    "workbook_key": "endocrinology_derived_markers_trends_march2026",
+    "sheet_name": "Improved_or_Worsened",
+    "table_name": "improved_or_worsened",
+    "csv_path": "/mnt/data/worksheet_exports/endocrinology_derived_markers_trends_march2026/improved_or_worsened.csv",
+    "rows": 61,
+    "cols": 8
+  },
+  {
+    "workbook": "Endocrinology_Derived_Markers_Trends_March2026.xlsx",
+    "workbook_key": "endocrinology_derived_markers_trends_march2026",
+    "sheet_name": "Summary",
+    "table_name": "summary",
+    "csv_path": "/mnt/data/worksheet_exports/endocrinology_derived_markers_trends_march2026/summary.csv",
+    "rows": 18,
+    "cols": 2
+  },
+  {
+    "workbook": "Lipid_Derived_Markers_Trends_March2026.xlsx",
+    "workbook_key": "lipid_derived_markers_trends_march2026",
+    "sheet_name": "Raw_Lipid_Data",
+    "table_name": "raw_lipid_data",
+    "csv_path": "/mnt/data/worksheet_exports/lipid_derived_markers_trends_march2026/raw_lipid_data.csv",
+    "rows": 15,
+    "cols": 7
+  },
+  {
+    "workbook": "Lipid_Derived_Markers_Trends_March2026.xlsx",
+    "workbook_key": "lipid_derived_markers_trends_march2026",
+    "sheet_name": "Derived_Markers",
+    "table_name": "derived_markers",
+    "csv_path": "/mnt/data/worksheet_exports/lipid_derived_markers_trends_march2026/derived_markers.csv",
+    "rows": 15,
+    "cols": 14
+  },
+  {
+    "workbook": "Lipid_Derived_Markers_Trends_March2026.xlsx",
+    "workbook_key": "lipid_derived_markers_trends_march2026",
+    "sheet_name": "Improved_or_Worsened",
+    "table_name": "improved_or_worsened",
+    "csv_path": "/mnt/data/worksheet_exports/lipid_derived_markers_trends_march2026/improved_or_worsened.csv",
+    "rows": 51,
+    "cols": 8
+  },
+  {
+    "workbook": "Lipid_Derived_Markers_Trends_March2026.xlsx",
+    "workbook_key": "lipid_derived_markers_trends_march2026",
+    "sheet_name": "Summary",
+    "table_name": "summary",
+    "csv_path": "/mnt/data/worksheet_exports/lipid_derived_markers_trends_march2026/summary.csv",
+    "rows": 16,
+    "cols": 2
+  }
+]
